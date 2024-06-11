@@ -1,0 +1,29 @@
+.footer{
+    background: -webkit-linear-gradient(left, #ff0000, #ff8080);
+    margin-top: 3%;
+    padding: 3%;
+}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+
+    *{
+        margin:0px;padding:0px;box-sizing: border-box;
+      }
+      html
+      {
+        scroll-behavior: smooth;
+      }
+      .carousel-inner img
+      {
+        height: 600px;
+
+      }
+      .container-fluid
+      {
+        padding:0px;
+      }
+      .navbar{
+        height: 60px;
+      }
+     
